@@ -1,4 +1,0 @@
-/home/chaz/Reborn/RebornVision-26-homework/Liu_Chang/quiz_3/build/CMakeFiles/matrix.dir
-/home/chaz/Reborn/RebornVision-26-homework/Liu_Chang/quiz_3/build/CMakeFiles/main.dir
-/home/chaz/Reborn/RebornVision-26-homework/Liu_Chang/quiz_3/build/CMakeFiles/edit_cache.dir
-/home/chaz/Reborn/RebornVision-26-homework/Liu_Chang/quiz_3/build/CMakeFiles/rebuild_cache.dir
